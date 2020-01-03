@@ -7,5 +7,6 @@ public class Test {
 	    
 	    System.out.println(s);
 	    System.out.println(a+s);
+	    System.out.println(a);
 	}
 }
